@@ -8,5 +8,5 @@ The following image illustrates how the pipeline works for some common output ty
 
 ![Diagram of some possible paths through the transform pipeline.](images/mainarch.gif)
 
-**Parent topic:**[Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
+**Parent topic:** [Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
 

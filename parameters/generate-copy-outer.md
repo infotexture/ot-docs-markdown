@@ -47,5 +47,5 @@ C:\A-test
 
 The index.html file is in the maps directory, and the CSS and other files are located in the output directory, C:\\A-test. Copying the output directory is simplified.
 
-**Parent topic:**[HTML-based output parameters](../parameters/parameters-base-html.md)
+**Parent topic:** [HTML-based output parameters](../parameters/parameters-base-html.md)
 

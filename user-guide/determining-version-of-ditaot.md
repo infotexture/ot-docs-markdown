@@ -11,5 +11,5 @@ You can determine the version of the DITA Open Toolkit from a command prompt.
     **Tip:** If you add the absolute path for the DITA-OT install-dir/bin directory to the PATH environment variable, you can run the dita command from any location on the file system.
 
 
-**Parent topic:**[Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
+**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
 

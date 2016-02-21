@@ -72,5 +72,5 @@ The following XSLT parameters have been removed:
 
 -   `disableRelatedLinks`
 
-**Parent topic:**[Migrating customizations](../dev_ref/migration.md)
+**Parent topic:** [Migrating customizations](../dev_ref/migration.md)
 

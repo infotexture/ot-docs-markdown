@@ -10,7 +10,7 @@ args.javahelp.map
 
 :   Default value is the name of the ditamap file for your project.
 
-**Parent topic:**[DITA-OT parameters](../parameters/parameters_intro.md)
+**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
 
 **Related information**  
 

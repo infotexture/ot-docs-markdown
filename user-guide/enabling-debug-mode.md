@@ -16,5 +16,5 @@ When the debug mode is enabled, additional diagnostic information is written to 
     ```
 
 
-**Parent topic:**[Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
+**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
 

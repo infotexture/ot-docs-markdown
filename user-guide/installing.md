@@ -7,5 +7,5 @@ The prerequisite software that the DITA-OT requires depends on the types of tran
 -   **[Installing the distribution package](../user-guide/installing-client.md)**  
 The DITA-OT distribution package can be installed on Linux, Mac OS X, and Windows. It contains everything that you need to run the toolkit except for Java.
 
-**Parent topic:**[DITA Open Toolkit User Guide](../user-guide/index.md)
+**Parent topic:** [DITA Open Toolkit User Guide](../user-guide/index.md)
 

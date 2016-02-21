@@ -7,5 +7,5 @@ DITA-OT includes a dita command-line tool. You can invoke the DITA-OT from the c
 -   **[Publishing DITA content from Ant](../user-guide/publishing-with-ant.md)**  
 You can use Ant to invoke the DITA Open Toolkit and generate output. You can use the complete set of parameters that are supported by the toolkit.
 
-**Parent topic:**[DITA Open Toolkit User Guide](../user-guide/index.md)
+**Parent topic:** [DITA Open Toolkit User Guide](../user-guide/index.md)
 

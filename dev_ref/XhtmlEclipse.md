@@ -30,5 +30,5 @@ Eclipse uses multiple files to control the plug-in behavior. Some of these contr
 
 Several of the targets listed above have matching templates for processing content that is located outside of the scope of the map directory, such as `dita.out.map.eclipse.toc`.
 
-**Parent topic:**[HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
+**Parent topic:** [HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
 

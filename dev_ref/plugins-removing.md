@@ -10,5 +10,5 @@ Plug-ins can be installed by removing the plug-in and running integration proces
     ```
 
 
-**Parent topic:**[Extending the DITA Open Toolkit](../dev_ref/extending-the-ot.md)
+**Parent topic:** [Extending the DITA Open Toolkit](../dev_ref/extending-the-ot.md)
 

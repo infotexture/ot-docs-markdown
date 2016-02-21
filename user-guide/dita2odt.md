@@ -4,7 +4,7 @@ The odt transformation produces output files that use the Open Document format, 
 
 This transform returns an ODT document, which is a zip file that contains the ODF XML file \(content.xml\), referenced images, and default styling \(in the file styles.xml\).
 
-**Parent topic:**[DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
+**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
 
 **Related information**  
 

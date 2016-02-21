@@ -17,5 +17,5 @@ The htmlhelp transformation created HTML Help control files. If the build runs o
 -   **[JavaHelp processing](../dev_ref/XhtmlJavahelp.md)**  
 The javahelp transformation runs several additional Ant targets after the XHTML processing is completed in order to create control files for the JavaHelp output.
 
-**Parent topic:**[Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
+**Parent topic:** [Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
 

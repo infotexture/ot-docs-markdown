@@ -184,5 +184,5 @@ Fatal \(F\)
 |XEPJ002E|Error|%1| |
 |XEPJ003E|Error|%1| |
 
-**Parent topic:**[Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
+**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
 

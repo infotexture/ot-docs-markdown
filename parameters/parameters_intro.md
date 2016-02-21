@@ -25,5 +25,5 @@ These parameters enable you to reload style sheets that the DITA-OT uses for spe
 -   **[PDF parameters](../parameters/parameters-pdf.md)**  
 Certain parameters are specific to the PDF transformation.
 
-**Parent topic:**[DITA Open Toolkit Parameter Reference](../parameters/index.md)
+**Parent topic:** [DITA Open Toolkit Parameter Reference](../parameters/index.md)
 

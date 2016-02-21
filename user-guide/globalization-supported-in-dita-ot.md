@@ -16,5 +16,5 @@ Bi-directional text
 
 When the DITA-OT generates output, it takes the first value for the @xml:lang attribute that it encounters, and then it uses that value to create generated text, perform index sorting, and determine which default CSS file is used. If no value for the @xml:lang attribute is found, the toolkit defaults to US English.
 
-**Parent topic:**[Globalizing DITA content](../user-guide/DITA-globalization.md)
+**Parent topic:** [Globalizing DITA content](../user-guide/DITA-globalization.md)
 

@@ -17,5 +17,5 @@ plugindirs
 plugin.ignores
 :   A semicolon-separated list of directory names to be ignored during plug-in integration; any relative paths are resolved against the DITA-OT base directory.
 
-**Parent topic:**[Configuration properties](../parameters/configuration-properties.md)
+**Parent topic:** [Configuration properties](../parameters/configuration-properties.md)
 

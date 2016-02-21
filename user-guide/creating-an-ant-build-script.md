@@ -75,7 +75,7 @@ Finally, the all target simply specifies that both the chm and pdf target should
 
 Another resource for learning about Ant scripts are the files in the samples/ant\_samples directory. This directory contains the Ant build files used by the demo build, as well as templates that you can use to create Ant scripts.
 
-**Parent topic:**[Publishing DITA content from Ant](../user-guide/publishing-with-ant.md)
+**Parent topic:** [Publishing DITA content from Ant](../user-guide/publishing-with-ant.md)
 
 **Related information**  
 

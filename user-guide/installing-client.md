@@ -20,5 +20,5 @@ The DITA-OT distribution package can be installed on Linux, Mac OS X, and Windo
     **Tip:** This step is recommended, as it allows the the dita command to be run from any location on the file system and makes it easier to transform DITA content from any folder.
 
 
-**Parent topic:**[Installing the DITA Open Toolkit](../user-guide/installing.md)
+**Parent topic:** [Installing the DITA Open Toolkit](../user-guide/installing.md)
 

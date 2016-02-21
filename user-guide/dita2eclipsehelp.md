@@ -12,7 +12,7 @@ In addition to the XHTML output and CSS files, this transformation returns the f
 |plugin.properties| |
 |META-INF/MANIFEST.MF| |
 
-**Parent topic:**[DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
+**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
 
 **Related information**  
 

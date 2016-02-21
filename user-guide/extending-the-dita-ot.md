@@ -7,5 +7,5 @@ Plug-ins are distributed as zip files and can be installed using either the comm
 -   **[Removing plug-ins](../user-guide/plugins-removing.md)**  
 Plug-ins can be removed by running the uninstallation process.
 
-**Parent topic:**[DITA Open Toolkit User Guide](../user-guide/index.md)
+**Parent topic:** [DITA Open Toolkit User Guide](../user-guide/index.md)
 

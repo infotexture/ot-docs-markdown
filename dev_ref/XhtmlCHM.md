@@ -13,5 +13,5 @@ Once the pre-processing and XHTML processes are completed, most of the HTML Help
 `compile.HTML.Help`
 :   Attempts to detect the HTML Help compiler. If the compiler is found, the full project is compiled into a single CHM file.
 
-**Parent topic:**[HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
+**Parent topic:** [HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
 

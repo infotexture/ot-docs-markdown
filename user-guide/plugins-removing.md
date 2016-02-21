@@ -16,5 +16,5 @@ Plug-ins can be removed by running the uninstallation process.
         ```
 
 
-**Parent topic:**[Extending the DITA Open Toolkit](../user-guide/extending-the-dita-ot.md)
+**Parent topic:** [Extending the DITA Open Toolkit](../user-guide/extending-the-dita-ot.md)
 

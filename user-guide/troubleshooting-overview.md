@@ -19,5 +19,5 @@ If you are working with large documents with extensive metadata or key reference
 -   **[Reducing processing time](../user-guide/reducing-processing-time.md)**  
 Several configuration changes can significantly reduce DITA-OT processing time.
 
-**Parent topic:**[DITA Open Toolkit User Guide](../user-guide/index.md)
+**Parent topic:** [DITA Open Toolkit User Guide](../user-guide/index.md)
 

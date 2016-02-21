@@ -50,5 +50,5 @@ The following plug-in will pass the parameters defined in the insertParameters.x
 </plugin>
 ```
 
-**Parent topic:**[Creating plug-ins](../dev_ref/plugins-overview.md)
+**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 

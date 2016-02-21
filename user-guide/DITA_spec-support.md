@@ -7,5 +7,5 @@ DITA Open Toolkit 2.2 supports the DITA 1.2 specification. Initial support for t
 -   **[DITA 1.3 support](../user-guide/DITA_v1-3-support.md)**  
 DITA Open Toolkit 2.2 provides processing support for the OASIS DITA 1.3 specification. Initial preview support for this specification was added in version 2.0 of the toolkit; version 2.2 extends this foundation to support key scopes and branch filtering along with additional DITA 1.3 features.
 
-**Parent topic:**[DITA Open Toolkit Overview](../user-guide/overview-of-dita-ot.md)
+**Parent topic:** [DITA Open Toolkit Overview](../user-guide/overview-of-dita-ot.md)
 

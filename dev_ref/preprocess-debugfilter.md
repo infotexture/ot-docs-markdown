@@ -8,7 +8,7 @@ The following modifications are made to the DITA source:
 -   Debug information is inserted into each element using the @xtrf and @xtrc attributes. The values of these attributes enable messages later in the build to reliably indicate the original source of the error. For example, a message might trace back to the fifth <ph\> element in a specific DITA topic. Without these attributes, that count might no longer be available due to filtering and other processing.
 -   The table column names are adjusted to use a common naming scheme. This is done only to simplify later conref processing. For example, if a table row is pulled into another table, this ensures that a reference to "column 5 properties" will continue to work in the fifth column of the new table.
 
-**Parent topic:**[Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
+**Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
 **Previous topic:**[Generate lists \(gen-list\)](../dev_ref/preprocess-genlist.md)
 

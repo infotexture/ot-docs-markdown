@@ -12,5 +12,5 @@ For example, XHTML processing is controlled by the xsl/dita2xhtml.xsl file. The 
 
 Java modules are typically used when XSLT is a poor fit, such as for processes that make use of standard Java libraries \(like those used for index sorting\). Java modules are also used in many cases where a step involves copying files, such as the initial process where source files are parsed and copied to a temporary processing directory.
 
-**Parent topic:**[Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
+**Parent topic:** [Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
 

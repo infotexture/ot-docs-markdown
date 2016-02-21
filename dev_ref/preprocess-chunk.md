@@ -12,7 +12,7 @@ The DITA-OT has implemented processing for the following values of the @chunk at
 -   to-content
 -   to-navigation
 
-**Parent topic:**[Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
+**Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
 **Previous topic:**[Move metadata \(move-meta-entries\) and pull content into maps \(mappull\)](../dev_ref/preprocess-metadata.md)
 

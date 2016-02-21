@@ -10,5 +10,5 @@ There are two primary Ant targets:
 `compile.Java.Help`
 :   Searches for a JavaHelp compiler on the system. If a compiler is found, the help project is compiled.
 
-**Parent topic:**[HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
+**Parent topic:** [HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
 

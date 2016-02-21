@@ -51,7 +51,7 @@ publish.required.cleanup
 
     **Note:** This parameter is deprecated in favor of the args.draft parameter.
 
-**Parent topic:**[DITA-OT parameters](../parameters/parameters_intro.md)
+**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
 
 **Related information**  
 

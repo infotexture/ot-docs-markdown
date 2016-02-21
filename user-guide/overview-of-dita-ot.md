@@ -9,7 +9,7 @@ DITA Open Toolkit 2.2 supports all standard versions of DITA, including 1.0, 1.1
 -   **[Tested platforms and tools](../user-guide/tested-tools.md)**  
 The DITA Open Toolkit has been tested against certain versions of Ant, ICU4J, JDK, operating systems, XML parsers, and XSLT processors.
 
-**Parent topic:**[DITA Open Toolkit User Guide](../user-guide/index.md)
+**Parent topic:** [DITA Open Toolkit User Guide](../user-guide/index.md)
 
 **Related information**  
 

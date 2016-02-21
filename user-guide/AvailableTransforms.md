@@ -27,5 +27,5 @@ The troff transformation produces output for use with the troff viewer on Unix-s
 -   **[DITA to XHTML](../user-guide/dita2xhtml.md)**  
 The xhtml transformation generates XHTML output and a table of contents \(TOC\) file. This was the first transformation created for the DITA Open Toolkit, and it is the basis for all the HTML-based transformations.
 
-**Parent topic:**[DITA Open Toolkit User Guide](../user-guide/index.md)
+**Parent topic:** [DITA Open Toolkit User Guide](../user-guide/index.md)
 

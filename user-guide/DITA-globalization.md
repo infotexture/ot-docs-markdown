@@ -9,7 +9,7 @@ The DITA Open Toolkit supports over 50 languages and language variants for the H
 -   **[Supported languages: PDF transformations](../user-guide/DITA-globalization-pdf.md)**  
 The DITA Open Toolkit supports a smaller set of languages for the PDF \(pdf2\) transformation. This transformation was donated to the DITA-OT project after the project inception, and it uses a different and larger set of generated text than the HTML-based transformations.
 
-**Parent topic:**[DITA Open Toolkit User Guide](../user-guide/index.md)
+**Parent topic:** [DITA Open Toolkit User Guide](../user-guide/index.md)
 
 **Related information**  
 

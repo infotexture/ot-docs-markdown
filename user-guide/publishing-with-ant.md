@@ -9,5 +9,5 @@ You can build output by using an Ant build script to provide the DITA-OT paramet
 -   **[Creating an Ant build script](../user-guide/creating-an-ant-build-script.md)**  
 Instead of typing the DITA-OT parameters at the command prompt, you might want to create an Ant build script that contains all of the parameters.
 
-**Parent topic:**[Publishing DITA content](../user-guide/transforming-dita-content.md)
+**Parent topic:** [Publishing DITA content](../user-guide/transforming-dita-content.md)
 

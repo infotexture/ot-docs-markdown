@@ -7,7 +7,7 @@ This transformation was originally created as a plug-in and maintained outside o
 -   **[Creating Change Bars](../user-guide/pdf2-creating-change-bars.md)**  
 The PDF2 transform can generate change \(revision\) bars with XSL-FO engines that support the fo:change-bar formatting object.
 
-**Parent topic:**[DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
+**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
 
 **Related information**  
 

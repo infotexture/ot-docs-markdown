@@ -13,5 +13,5 @@ If you are working with large documents with extensive metadata or key reference
 
 -   To persistently change the value, change the value allocated to the ANT\_OPTS environment variable on your system.
 
-**Parent topic:**[Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
+**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
 

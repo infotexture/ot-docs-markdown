@@ -15,5 +15,5 @@ The odt transformation begins with pre-processing. It then runs either the `dita
 
 Once these targets have run, the generated files are zipped up together with other required files to create the output ODT file.
 
-**Parent topic:**[Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
+**Parent topic:** [Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
 

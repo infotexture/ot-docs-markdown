@@ -29,5 +29,5 @@ The `topicpull` step pulls content into <xref\> and <link\> elements. This step 
 13. [Flagging in the toolkit](../dev_ref/preprocess-flagging.md)  
 Beginning with DITA-OT 1.7, flagging support is implemented as a common preprocess module. The module evaluates the DITAVAL against all flagging attributes, and adds DITA-OT–specific hints to the topic when flags are active. Any extended transformation type may use these hints to support flagging without adding logic to interpret the DITAVAL.
 
-**Parent topic:**[Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
+**Parent topic:** [Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
 

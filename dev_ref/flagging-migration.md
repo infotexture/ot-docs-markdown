@@ -135,5 +135,5 @@ Match element with mode="elementname-fmt"
 
 Beginning with DITA-OT 1.7, styling from revisions is handled automatically with the `"commonattributes"` template. This means there is no need for the extra testing, or the indirection to `mode="elementname-fmt"`. These templates are deprecated, and element processing will move into the main element rule. Overrides that include this indirection may remove it; overrides should also be sure to match the default rule, rather than matching with `mode="elementname-fmt"`.
 
-**Parent topic:**[Migrating to Release 1.7](../dev_ref/migrating-to-1.7.md)
+**Parent topic:** [Migrating to Release 1.7](../dev_ref/migrating-to-1.7.md)
 

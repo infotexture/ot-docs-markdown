@@ -17,5 +17,5 @@ The PDF \(formerly known as PDF2\) transformation process runs the pre-processin
 -   **[Open Document Format processing modules](../dev_ref/OdtDefault.md)**  
 The odt transformation creates a binary file using the OASIS Open Document Format.
 
-**Parent topic:**[DITA Open Toolkit Developer Reference](../dev_ref/index.md)
+**Parent topic:** [DITA Open Toolkit Developer Reference](../dev_ref/index.md)
 

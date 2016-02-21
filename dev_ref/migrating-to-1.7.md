@@ -55,5 +55,5 @@ A new `#note-separator` variable string was added to facilitate customization.
 -   **[XHTML migration for flagging updates in DITA-OT 1.7](../dev_ref/flagging-migration.md)**  
 This topic is primarily of interest to developers with XHTML transform overrides written prior to DITA-OT 1.7. Due to significant changes in the flagging process with the 1.7 release, some changes may be needed to make overrides work properly with DITAVAL based flagging. The new design is significantly simpler than the old design; in many cases, migration will consist of deleting old code that is no longer needed.
 
-**Parent topic:**[Migrating customizations](../dev_ref/migration.md)
+**Parent topic:** [Migrating customizations](../dev_ref/migration.md)
 

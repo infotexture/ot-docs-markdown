@@ -32,5 +32,5 @@ XSL-FO processor
 
 See [Tested platforms and tools](tested-tools.md) for detailed information about versions of the prerequisite applications that have been tested with the current DITA-OT release.
 
-**Parent topic:**[Installing the DITA Open Toolkit](../user-guide/installing.md)
+**Parent topic:** [Installing the DITA Open Toolkit](../user-guide/installing.md)
 

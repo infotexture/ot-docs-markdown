@@ -13,5 +13,5 @@ In DITA-OT 1.6, various demo plugins were removed along with many deprecated pro
 -   **[Migrating to Release 1.5.4](../dev_ref/migrating-to-1.5.4.md)**  
 DITA-OT 1.5.4 adds new extension points to configure behavior based on file extensions, declare print transformation types and add mappings to the PDF configuration catalog file. PDF output supports mirrored page layout and uses new font family definitions. Support for several new languages was added for PDF and XHTML output.
 
-**Parent topic:**[DITA Open Toolkit Developer Reference](../dev_ref/index.md)
+**Parent topic:** [DITA Open Toolkit Developer Reference](../dev_ref/index.md)
 

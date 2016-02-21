@@ -34,5 +34,5 @@ The following plug-in will only be installed if either the plug-in with id="plug
 </plugin>
 ```
 
-**Parent topic:**[Creating plug-ins](../dev_ref/plugins-overview.md)
+**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 

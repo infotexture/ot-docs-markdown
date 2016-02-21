@@ -9,7 +9,7 @@ nav-toc
     -   partial – Partial TOC that shows the current topic
     -   full – Full TOC
 
-**Parent topic:**[DITA-OT parameters](../parameters/parameters_intro.md)
+**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
 
 **Related information**  
 

@@ -47,5 +47,5 @@ XSLT modules can then generate the message using the following call:
 
 ```
 
-**Parent topic:**[Creating plug-ins](../dev_ref/plugins-overview.md)
+**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 

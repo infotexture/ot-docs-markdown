@@ -74,5 +74,5 @@ To apply custom formatting for your own domain to the intermediate markup genera
 <feature extension="dita.xsl.troff-ast" file="xsl/your-domain.xsl"/>
 ```
 
-**Parent topic:**[Creating plug-ins](../dev_ref/plugins-overview.md)
+**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 

@@ -7,5 +7,5 @@ The plugin.properties file is used to store configuration properties that are se
 -   **[configuration.properties file](../parameters/lib-configuration-properties.md)**  
 The lib/configuration.properties file controls certain common properties, as well as some properties that control PDF processing.
 
-**Parent topic:**[DITA Open Toolkit Parameter Reference](../parameters/index.md)
+**Parent topic:** [DITA Open Toolkit Parameter Reference](../parameters/index.md)
 

@@ -6,7 +6,7 @@ The XHTML output is always associated with the default DITA-OT CSS file \(common
 
 To run the XHTML transformation, set the transtype parameter to xhtml. If you are running the demo build, specify web rather than xhtml.
 
-**Parent topic:**[DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
+**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
 
 **Related information**  
 

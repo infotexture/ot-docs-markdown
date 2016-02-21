@@ -31,5 +31,5 @@ It is possible to define a plug-in so that it may be installed anywhere, althoug
     ```
 
 
-**Parent topic:**[Extending the DITA Open Toolkit](../dev_ref/extending-the-ot.md)
+**Parent topic:** [Extending the DITA Open Toolkit](../dev_ref/extending-the-ot.md)
 

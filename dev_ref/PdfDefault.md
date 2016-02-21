@@ -31,5 +31,5 @@ The `transform.topic2pdf` target uses the following targets to perform those tas
 `delete.fo2pdf.topic.fo`
 :   Deletes the topic.fo file, unless otherwise specified by setting an Ant property or command-line option.
 
-**Parent topic:**[Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
+**Parent topic:** [Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
 

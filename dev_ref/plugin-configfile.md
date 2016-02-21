@@ -73,7 +73,7 @@ The `<plugin>` element supports the following child elements:
 
 Any extension that is not recognized by the DITA-OT is ignored; all elements other than `<plugin>` are optional. Since version 1.5.3 multiple extension definitions within a plug-in configuration file are combined; in older versions only the last extension definition is used.
 
-**Parent topic:**[Creating plug-ins](../dev_ref/plugins-overview.md)
+**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 
 **Related information**  
 

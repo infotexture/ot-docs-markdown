@@ -33,7 +33,7 @@ When the section is referenced using a @conref attribute, the value of the @id a
 
 In this case, the value of the @id attribute on the <fig\> element has been changed to a generated value of "d1e25". At the same time, the <xref\> element has been updated to use that new generated ID, so that the cross reference remains valid.
 
-**Parent topic:**[Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
+**Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
 **Previous topic:**[Conref push \(conrefpush\)](../dev_ref/preprocess-conrefpush.md)
 

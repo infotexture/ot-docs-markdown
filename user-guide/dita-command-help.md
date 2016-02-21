@@ -13,5 +13,5 @@ You can access a list of supported parameters for the dita command by issuing th
 
 A brief description of the supported parameters appears in the command-line window.
 
-**Parent topic:**[Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
+**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
 

@@ -12,7 +12,7 @@ Normalized DITA files have been through the DITA Open Toolkit pre-processing ope
 
 The normalized DITA files have an extension of .xml.
 
-**Parent topic:**[DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
+**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
 
 **Related information**  
 

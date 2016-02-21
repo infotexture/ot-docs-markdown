@@ -17,5 +17,5 @@ The DITA-OT ships with Ant scripts that enable you to rebuild the toolkit docume
     If you do not specify an Ant target, all three output formats \(HTML5, HTML help, and PDF\) are generated.
 
 
-**Parent topic:**[Extending the DITA Open Toolkit](../dev_ref/extending-the-ot.md)
+**Parent topic:** [Extending the DITA Open Toolkit](../dev_ref/extending-the-ot.md)
 

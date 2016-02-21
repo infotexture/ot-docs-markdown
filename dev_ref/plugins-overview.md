@@ -40,5 +40,5 @@ If your plug-in needs to define its own extension point in an XML file, add the 
 -   **[Example plugin.xml file](../dev_ref/plugin-sample.md)**  
 The following is a sample of a plugin.xml file. This file adds support for a new set of specialized DTDs, and includes an override for the XHTML output processor.
 
-**Parent topic:**[DITA Open Toolkit Developer Reference](../dev_ref/index.md)
+**Parent topic:** [DITA Open Toolkit Developer Reference](../dev_ref/index.md)
 

@@ -14,7 +14,7 @@ Plug-ins can be installed by removing the plug-in and running integration proces
 -   **[Rebuilding the DITA-OT documentation](../dev_ref/rebuilding-the-dita-ot-documentation.md)**  
 The DITA-OT ships with Ant scripts that enable you to rebuild the toolkit documentation. This is especially helpful if your environment contains plug-ins that integrate additional messages into the toolkit.
 
-**Parent topic:**[DITA Open Toolkit Developer Reference](../dev_ref/index.md)
+**Parent topic:** [DITA Open Toolkit Developer Reference](../dev_ref/index.md)
 
 **Related information**  
 
