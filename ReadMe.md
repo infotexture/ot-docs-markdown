@@ -6,7 +6,7 @@ The output was generated using the [DITA-OT Markdown plug-in][3] for publication
 
 ## Sample GitBook output
 
-The Markdown source files in this repository were rendered to GitBook’s default static website output via GitBook’s [command line interface][5].
+The Markdown source files in this repository were rendered to GitBook’s default static website output via the `gitbook-cli` [command line interface][5].
 
 The demonstration output is available on the GitHub project site at <http://infotexture.github.io/ot-docs-markdown>.
 
