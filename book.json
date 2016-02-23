@@ -1,0 +1,8 @@
+{
+  "structure": {
+    "readme": "index.md",
+    "summary": "SUMMARY.md",
+    "title": "DITA Open Toolkit 2.2.2 docs",
+    "description": "Demonstration of DITA content published via GitBook"
+  }
+}
