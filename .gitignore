@@ -1,0 +1,4 @@
+# This file specifies intentionally untracked files that Git should ignore
+
+## Staging directory generated during GitBook builds
+_book/
