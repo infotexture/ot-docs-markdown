@@ -23,5 +23,3 @@ This example assumes that "catalog-dita.xml" contains an OASIS catalog for any D
 </plugin>
 ```
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-

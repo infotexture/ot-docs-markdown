@@ -4,5 +4,3 @@ The tocjs transformation generates XHTML output, a frameset, and a JavaScript-ba
 
 The tocjs transformation was updated so that it produces XHTML output and uses a default frameset.
 
-**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
-

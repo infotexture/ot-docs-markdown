@@ -29,8 +29,6 @@ The following command generates HTML5 output for the sequence.ditamap file and w
 dita -i samples/sequence.ditamap -f html5 -o test
 ```
 
-**Parent topic:** [Publishing DITA content](../user-guide/transforming-dita-content.md)
-
 **Related information**  
 
 

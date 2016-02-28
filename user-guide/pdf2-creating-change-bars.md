@@ -40,5 +40,3 @@ Each name/value corresponds to an attribute of the [XSL-FO fo:change-bar-begin e
 
 Note that XSL-FO 1.1 does not provide for revision "bars" that are not rules, so there is no standard way to get text revision indicators instead of rules, e.g. using a number in place of a rule. Antenna House Formatter does provide a proprietary extension to allow this but the PDF2 transform does not take advantage of it.
 
-**Parent topic:** [DITA to PDF \(PDF2\)](../user-guide/dita2pdf.md)
-

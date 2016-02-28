@@ -13,8 +13,6 @@ In addition to the HTML output and CSS files, this transformation returns the fo
 
 |
 
-**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
-
 **Related information**  
 
 

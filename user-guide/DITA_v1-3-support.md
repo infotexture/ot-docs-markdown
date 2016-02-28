@@ -37,8 +37,6 @@ The following DITA 1.3 features were implemented in version 2.2 of the toolkit.
 
 **Note:** For the latest status information on DITA 1.3-related features, see the [DITA 1.3 label](https://github.com/dita-ot/dita-ot/issues?q=label%3A%22DITA+1.3%22+is%3Aclosed) in the GitHub issues tracker.
 
-**Parent topic:** [DITA specification support](../user-guide/DITA_spec-support.md)
-
 **Related information**  
 
 

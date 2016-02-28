@@ -155,5 +155,3 @@ transtype
 validate
 :   Specifies whether the DITA-OT validates the content. The allowed values are true and false; the default value is true.
 
-**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
-

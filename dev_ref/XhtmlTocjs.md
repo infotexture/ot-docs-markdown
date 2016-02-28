@@ -13,5 +13,4 @@ The following Ant targets control most of the TocJS processing:
   `tocjsDefaultOutput`
  :   Ensures that the HTML5 processing module is run. If scripts are missing required information, such as a name for the default frameset, this target copies default style and control files. This target was add to the DITA-OT in version 1.5.4; earlier versions of the TocJS transformation created only the JavaScript control file by default.
 
- **Parent topic:** [HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
-
+ 

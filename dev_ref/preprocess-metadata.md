@@ -14,9 +14,3 @@ The `mappull` step makes the following changes to the DITA map:
 -   The @type attribute is set on <topicref\> elements that reference local DITA topics. The value of the @type attribute is set to value of the root element of the topic; for example, a <topicref\> element that references a task topic is given a @type attribute set to "task"".
 -   Attributes that cascade, such as @toc and print, are made explicit on any child <topicref \>elements. This allows future steps to work with the attributes directly, without reevaluating the cascading behavior.
 
-**Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
-
-**Previous topic:** [Resolve code references \(coderef\)](../dev_ref/preprocess-coderef.md)
-
-**Next topic:** [Chunk topics \(chunk\)](../dev_ref/preprocess-chunk.md)
-

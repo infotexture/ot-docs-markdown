@@ -38,10 +38,6 @@ If the dita command is not on your PATH, use the following command:
 install-dir/bin/dita i samples/sequence.ditamap -f html5 -o test
 ```
 
-**Parent topic:** [Getting Started with the DITA Open Toolkit](../getting-started/index.md)
-
-**Previous topic:** [Installing the distribution package](../getting-started/installing-client.md)
-
 **Related information**  
 
 

@@ -87,5 +87,3 @@ A new shell stylesheet has been added for FOP and other shell stylesheets have a
 
 Font family definitions in stylesheets have been changed from Sans, Serif, and Monospaced to sans-serif, serif, and monospace, respectively. The I18N font processing still uses the old logical names and aliases are used to map the new names to old ones.
 
-**Parent topic:** [Migrating customizations](../dev_ref/migration.md)
-

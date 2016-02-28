@@ -26,5 +26,3 @@ Then create the following feature:
 
 When the plug-in is integrated, the imports from myAntStuffWrapper.xml will be copied into build.xml \(using the correct path\). This makes targets in myAntStuff.xml available to any other processing.
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-

@@ -19,5 +19,3 @@ Plug-ins are distributed as zip files and can be installed using either the comm
     The plug-in-zip can be either a local file path or a URL.
 
 
-**Parent topic:** [Extending the DITA Open Toolkit](../user-guide/extending-the-dita-ot.md)
-

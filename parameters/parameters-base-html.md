@@ -80,11 +80,6 @@ args.xsl
 
 :   The parameter must specify a fully qualified file name.
 
--   **[generate.outer.copy parameter](../parameters/generate-copy-outer.md)**  
-Elaboration on how the generate.outer.copy parameter functions.
-
-**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
-
 **Related information**  
 
 

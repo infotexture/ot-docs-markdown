@@ -27,5 +27,3 @@ The DITA Open Toolkit has been tested against certain versions of Ant, ICU4J, JD
  6.  Saxon-HE/PE/EE 9.5-9.6
   |
 
-**Parent topic:** [DITA Open Toolkit Overview](../user-guide/overview-of-dita-ot.md)
-

@@ -98,8 +98,6 @@ To integrate the new languages, use the same method as above to add these string
 
 **Note:** If two plug-ins add support for the same language using different values, the results will be non-deterministic \(translations from either plug-in may be picked up under different conditions\).
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-
 **Related information**  
 
 

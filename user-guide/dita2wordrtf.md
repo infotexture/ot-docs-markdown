@@ -11,5 +11,3 @@ The wordrtf transformation has the following limitations:
 -   Tables within list items are not supported.
 -   Certain output styles supported by other DITA-OT transformations are not supported.
 
-**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
-

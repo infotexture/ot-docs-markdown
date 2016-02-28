@@ -85,5 +85,3 @@ When the integrator runs, this will be used to recreate myBuildFile.xml, replaci
 </project>
 ```
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-

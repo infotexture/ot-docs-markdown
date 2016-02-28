@@ -6,8 +6,6 @@ The DITA-OT uses Ant to manage the XSLT scripts that are used to perform the var
 
 The most important Ant script is the build.xml file. This script defines and combines common pre-processing and output transformation routines; it also defines the DITA-OT extension points.
 
-**Parent topic:** [Publishing DITA content from Ant](../user-guide/publishing-with-ant.md)
-
 **Related information**  
 
 

@@ -16,8 +16,6 @@ You can build output by using an Ant build script to provide the DITA-OT paramet
         If you do not specify a target, the value of the @default attribute for the Ant project is used.
 
 
-**Parent topic:** [Publishing DITA content from Ant](../user-guide/publishing-with-ant.md)
-
 **Related information**  
 
 

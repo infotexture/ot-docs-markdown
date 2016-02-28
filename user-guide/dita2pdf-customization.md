@@ -113,5 +113,3 @@ com.example.print-pdf/
 
 Run the integration process to install the plug-in and make the print-pdf transformation available.
 
-**Parent topic:** [DITA Open Toolkit Developer Reference](../dev_ref/index.md)
-

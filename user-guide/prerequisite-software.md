@@ -32,5 +32,3 @@ Depending on the type of output that you want to generate, you might need the fo
 
  See [Tested platforms and tools](tested-tools.md) for detailed information about versions of the prerequisite applications that have been tested with the current DITA-OT release.
 
-**Parent topic:** [Installing the DITA Open Toolkit](../user-guide/installing.md)
-

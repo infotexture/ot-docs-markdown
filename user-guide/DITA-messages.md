@@ -184,5 +184,3 @@ Each message ID is composed of a message prefix, a message number, and a letter 
 |XEPJ002E|Error|%1 | |
 |XEPJ003E|Error|%1 | |
 
-**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
-

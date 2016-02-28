@@ -31,5 +31,3 @@ The default value is `0.0.0`.
 </plugin>
 ```
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-

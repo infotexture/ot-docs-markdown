@@ -13,8 +13,6 @@ args.eclipse.version
 args.eclipsecontent.toc
 :   Specifies the name of the TOC file.
 
-**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
-
 **Related information**  
 
 

@@ -31,5 +31,4 @@ The PDF process includes many Ant targets. During a typical conversion from map 
   `delete.fo2pdf.topic.fo`
  :   Deletes the topic.fo file, unless otherwise specified by setting an Ant property or command-line option.
 
- **Parent topic:** [Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)
-
+ 

@@ -18,5 +18,4 @@ Reference list of Ant properties used by DITA-OT internally.
     -   external
     -   other
 
- **Parent topic:** [DITA Open Toolkit Parameter Reference](../parameters/index.md)
-
+ 

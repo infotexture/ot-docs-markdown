@@ -159,7 +159,3 @@ The resulting file after the flagging step looks like this; for clarity, newline
 </ol>
 ```
 
-**Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
-
-**Previous topic:** [Pull content into topics \(topicpull\)](../dev_ref/preprocess-topicpull.md)
-

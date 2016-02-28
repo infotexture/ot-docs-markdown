@@ -81,5 +81,3 @@ The following feature adds "myAntTargetBeforeChunk" Ant target to be executed be
 
 When integrated, the Ant target "myAntTargetBeforeChunk" will be added to the Ant dependency list so that it always runs immediately before the Chunk step.
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-

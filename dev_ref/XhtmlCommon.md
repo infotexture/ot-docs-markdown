@@ -8,5 +8,3 @@ After the pre-processing is completed, the following targets are run for all of 
 -   If a DITAVAL file is used, the `copy-revflag` target copies the default start- and end-revision flags into the output directory.
 -   The DITA topics are converted to HTML files. Unless the @chunk attribute was specified, each DITA topic in the temporary directory now corresponds to one HTML file. The `dita.inner.topics.xhtml` target is used to process documents that are in the map directory \(or subdirectories of the map directory\). The `dita.outer.topics.xhtml` target is used to process documents that are outside of the scope of the map, and thus might end up outside of the designated output directory. Various DITA-OT parameters control how documents processed by the `dita.outer.topics.xhtml` target are handled.
 
-**Parent topic:** [HTML-based processing modules](../dev_ref/XhtmlWithNavigation.md)
-

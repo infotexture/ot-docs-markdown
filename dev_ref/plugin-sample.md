@@ -11,8 +11,6 @@ This plugin.xml file would go into a directory such as DITA-OT/plugins/music/ an
 </plugin>
 ```
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-
 **Related information**  
 
 

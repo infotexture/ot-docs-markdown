@@ -38,8 +38,6 @@ The following example shows how the org.dita.html5 plugin uses the `<transtype>`
 </transtype>
 ```
 
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
-
 **Related information**  
 
 

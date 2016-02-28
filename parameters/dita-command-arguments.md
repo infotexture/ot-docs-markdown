@@ -74,9 +74,7 @@ The dita command takes mandatory arguments to process DITA content, manage plug-
   -propertyfile file
  :   Load all properties from a file. Properties specified with the -D option take precedence.
 
- **Parent topic:** [DITA Open Toolkit Parameter Reference](../parameters/index.md)
-
-**Related information**  
+ **Related information**  
 
 
 [DITA-OT parameters](parameters_intro.md)

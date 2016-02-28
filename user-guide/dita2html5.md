@@ -6,8 +6,6 @@ The HTML5 output is always associated with the default DITA-OT CSS file \(common
 
 To run the HTML5 transformation, set the transtype parameter to html5.
 
-**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
-
 **Related information**  
 
 

@@ -10,5 +10,4 @@ The logging behavior varies depending on whether you use the dita command, DITA-
   Ant
  :   By default, status information is written to the screen. If you issue the -l parameter, the build runs silently and the information is written to a log file with the name and location that you specified. \(You also can use other Ant loggers; see the Ant documentation for more information.\)
 
- **Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
-
+ 
