@@ -2,10 +2,10 @@
 
 If your Ant or XSLT extensions require additional Java libraries in the classpath, you can add them to the global DITA-OT classpath with the following feature.
 
-`dita.conductor.lib.import`
-:   Add Java libraries to DITA-OT classpath.
+ `dita.conductor.lib.import`
+ :   Add Java libraries to DITA-OT classpath.
 
-## Example
+ ## Example
 
 The following plug-in adds the compiled Java code from myJavaLibrary.jar into the global DITA-OT classpath. XSLT or Ant code can then make use of the added code.
 

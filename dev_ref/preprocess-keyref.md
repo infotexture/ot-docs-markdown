@@ -4,7 +4,7 @@ The `keyref` step examines all the keys that are defined in the DITA source and 
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Copy related files \(copy-files\)](../dev_ref/preprocess-copyfiles.md)
+**Previous topic:** [Copy related files \(copy-files\)](../dev_ref/preprocess-copyfiles.md)
 
-**Next topic:**[Conref push \(conrefpush\)](../dev_ref/preprocess-conrefpush.md)
+**Next topic:** [Conref push \(conrefpush\)](../dev_ref/preprocess-conrefpush.md)
 

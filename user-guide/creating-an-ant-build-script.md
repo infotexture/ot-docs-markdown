@@ -2,7 +2,7 @@
 
 Instead of typing the DITA-OT parameters at the command prompt, you might want to create an Ant build script that contains all of the parameters.
 
-1.  Create an XML file that contains the following content:
+1.   Create an XML file that contains the following content: 
 
     ```
     <?xml version="1.0" encoding="UTF-8" ?>
@@ -22,15 +22,15 @@ Instead of typing the DITA-OT parameters at the command prompt, you might want t
 
     You will replace the placeholder content \(indicated by the % signs\) with content applicable to your environment.
 
-2.  Specify project information:
-    1.  Set the value of the @name attribute to the name of your project.
-    2.  Set the value of the @default attribute to the name of a target in the build script. If the build script is invoked without specifying a target, this target will be run.
-3.  Set the value of the dita.dir property to the location of the DITA-OT. This can be a fully qualified path, or you can specify it relative to the location of the Ant build script that you are writing.
-4.  Create the Ant target:
-    1.  Set the value of the @name attribute.
-    2.  Specify the value for the args.input property.
-    3.  Specify the value of the transtype property.
-5.  Save the build script.
+2.   Specify project information: 
+    1.   Set the value of the @name attribute to the name of your project. 
+    2.   Set the value of the @default attribute to the name of a target in the build script. If the build script is invoked without specifying a target, this target will be run.
+3.   Set the value of the dita.dir property to the location of the DITA-OT. This can be a fully qualified path, or you can specify it relative to the location of the Ant build script that you are writing.
+4.   Create the Ant target: 
+    1.   Set the value of the @name attribute. 
+    2.   Specify the value for the args.input property. 
+    3.   Specify the value of the transtype property. 
+5.   Save the build script. 
 
 The following Ant build script generates CHM and PDF output for the userguide.ditamap file.
 

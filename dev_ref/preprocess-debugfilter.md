@@ -10,7 +10,7 @@ The following modifications are made to the DITA source:
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Generate lists \(gen-list\)](../dev_ref/preprocess-genlist.md)
+**Previous topic:** [Generate lists \(gen-list\)](../dev_ref/preprocess-genlist.md)
 
-**Next topic:**[Resolve map references \(mapref\)](../dev_ref/preprocess-mapref.md)
+**Next topic:** [Resolve map references \(mapref\)](../dev_ref/preprocess-mapref.md)
 

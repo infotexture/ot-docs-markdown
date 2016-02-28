@@ -2,8 +2,8 @@
 
 The DITA-OT ships with Ant scripts that enable you to rebuild the toolkit documentation. This is especially helpful if your environment contains plug-ins that integrate additional messages into the toolkit.
 
-1.  Change to the docsrc directory.
-2.  Run the following command:
+1.   Change to the docsrc directory. 
+2.   Run the following command: 
 
     ```
     ant -f build.xml target

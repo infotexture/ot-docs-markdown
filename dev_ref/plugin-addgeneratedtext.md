@@ -8,10 +8,10 @@ The generated text extension point is used to add new strings to the default set
 -   It can be used to override the default strings in the toolkit; for example, it could be used to reset the English string "Figure" to "Fig".
 -   It can be used to add support for new languages \(for non-PDF transforms only; PDF requires more complicated localization support\). For example, it could be used to add support for Vietnamese or Gaelic; it could also be used to support a new variant of a previously supported language, such as Australian English.
 
-`dita.xsl.strings`
-:   Add new strings to generated text file.
+ `dita.xsl.strings`
+ :   Add new strings to generated text file.
 
-## Example: adding new strings
+ ## Example: adding new strings
 
 First copy the file xsl/common/strings.xml to your plug-in, and edit it to contain the languages that you are providing translations for \("en-US" must be present\). For this sample, copy the file into your plug-in as xsl/my-new-strings.xml. The new strings file will look something like this:
 

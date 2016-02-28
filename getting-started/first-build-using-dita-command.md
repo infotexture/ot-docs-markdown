@@ -4,10 +4,10 @@ DITA-OT includes a dita command-line tool. You can invoke the DITA-OT from the c
 
 The DITA-OT client is a command-line tool, there is no graphic user interface.
 
-1.  Open a terminal window by typing the following in the search bar:
+1.   Open a terminal window by typing the following in the search bar: 
     -   On OS X and Linux, type Terminal.
     -   On Windows, type Command Prompt.
-2.  At the command-line prompt, enter the following command:
+2.   At the command-line prompt, enter the following command: 
 
     ```
     install-dir/bin/dita -i input-file -f format -o output-dir
@@ -40,7 +40,7 @@ install-dir/bin/dita i samples/sequence.ditamap -f html5 -o test
 
 **Parent topic:** [Getting Started with the DITA Open Toolkit](../getting-started/index.md)
 
-**Previous topic:**[Installing the distribution package](../getting-started/installing-client.md)
+**Previous topic:** [Installing the distribution package](../getting-started/installing-client.md)
 
 **Related information**  
 

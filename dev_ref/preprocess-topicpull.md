@@ -8,7 +8,7 @@ The process is similar for <link\> elements. If the <link\> element does not hav
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Map based linking \(maplink\)](../dev_ref/preprocess-maplink.md)
+**Previous topic:** [Map based linking \(maplink\)](../dev_ref/preprocess-maplink.md)
 
-**Next topic:**[Flagging in the toolkit](../dev_ref/preprocess-flagging.md)
+**Next topic:** [Flagging in the toolkit](../dev_ref/preprocess-flagging.md)
 

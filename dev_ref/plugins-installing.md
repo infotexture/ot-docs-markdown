@@ -4,8 +4,8 @@ Plug-ins are generally distributed as zip files. There are two steps to installi
 
 It is possible to define a plug-in so that it may be installed anywhere, although most expect to be placed in plugins/ directory inside of the DITA-OT. Most plug-ins do not require a specific install directory and can go in either of the default locations, but some may come with instructions for a particular install directory.
 
-1.  The unzip the plug-in file to plugins subdirectory. The plug-in directory should be named after plug-in ID and version, for example plugins/com.example.xhtml\_1.0.0.
-2.  Run plug-in integration process.
+1.   The unzip the plug-in file to plugins subdirectory. The plug-in directory should be named after plug-in ID and version, for example plugins/com.example.xhtml\_1.0.0.
+2.   Run plug-in integration process. 
 
     -   From the toolkit directory, run the following command to integrate all installed plug-ins:
 

@@ -6,7 +6,7 @@ The <coderef\> element is used to reference code stored externally in non-XML do
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Conref \(conref\)](../dev_ref/preprocess-conref.md)
+**Previous topic:** [Conref \(conref\)](../dev_ref/preprocess-conref.md)
 
-**Next topic:**[Move metadata \(move-meta-entries\) and pull content into maps \(mappull\)](../dev_ref/preprocess-metadata.md)
+**Next topic:** [Move metadata \(move-meta-entries\) and pull content into maps \(mappull\)](../dev_ref/preprocess-metadata.md)
 

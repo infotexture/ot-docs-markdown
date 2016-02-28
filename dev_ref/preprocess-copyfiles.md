@@ -4,7 +4,7 @@ The `copy-files` step copies non-DITA resources to the output directory, such as
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Resolve map references \(mapref\)](../dev_ref/preprocess-mapref.md)
+**Previous topic:** [Resolve map references \(mapref\)](../dev_ref/preprocess-mapref.md)
 
-**Next topic:**[Resolve keyref \(keyref\)](../dev_ref/preprocess-keyref.md)
+**Next topic:** [Resolve keyref \(keyref\)](../dev_ref/preprocess-keyref.md)
 

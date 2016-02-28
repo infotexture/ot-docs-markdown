@@ -56,7 +56,7 @@ args.hdr
 args.hide.parent.link
 :   Specifies whether to hide links to parent topics in the HTML or XHTML output. The allowed values are yes and no; the default value is no.
 
-:   Corresponds to the XSLT parameter NOPARENTLINK.
+:   Corresponds to the XSLT parameter NOPARENTLINK. 
 
     **Note:** This parameter is deprecated in favor of the args.rellinks parameter.
 
@@ -66,7 +66,7 @@ args.indexshow
 args.outext
 :   Specifies the file extension for HTML or XHTML output.
 
-:   Corresponds to the XSLT parameter OUTEXT.
+:   Corresponds to the XSLT parameter OUTEXT. 
 
 args.xhtml.classattr
 :   Specifies whether to include the DITA class ancestry inside the XHTML elements. The allowed values are yes and no; the default value is yes.

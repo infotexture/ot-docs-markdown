@@ -16,7 +16,7 @@ The `mappull` step makes the following changes to the DITA map:
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Resolve code references \(coderef\)](../dev_ref/preprocess-coderef.md)
+**Previous topic:** [Resolve code references \(coderef\)](../dev_ref/preprocess-coderef.md)
 
-**Next topic:**[Chunk topics \(chunk\)](../dev_ref/preprocess-chunk.md)
+**Next topic:** [Chunk topics \(chunk\)](../dev_ref/preprocess-chunk.md)
 

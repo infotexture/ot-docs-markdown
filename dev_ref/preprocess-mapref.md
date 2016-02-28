@@ -14,7 +14,7 @@ As a result of the mapref step, the element that references another map is repla
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Debug and filter \(debug-filter\)](../dev_ref/preprocess-debugfilter.md)
+**Previous topic:** [Debug and filter \(debug-filter\)](../dev_ref/preprocess-debugfilter.md)
 
-**Next topic:**[Copy related files \(copy-files\)](../dev_ref/preprocess-copyfiles.md)
+**Next topic:** [Copy related files \(copy-files\)](../dev_ref/preprocess-copyfiles.md)
 

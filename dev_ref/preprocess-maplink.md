@@ -6,7 +6,7 @@ The `maplink` module runs an XSLT stylesheet that evaluates the map; it places a
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Chunk topics \(chunk\)](../dev_ref/preprocess-chunk.md)
+**Previous topic:** [Chunk topics \(chunk\)](../dev_ref/preprocess-chunk.md)
 
-**Next topic:**[Pull content into topics \(topicpull\)](../dev_ref/preprocess-topicpull.md)
+**Next topic:** [Pull content into topics \(topicpull\)](../dev_ref/preprocess-topicpull.md)
 

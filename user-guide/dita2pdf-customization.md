@@ -8,8 +8,8 @@ This topic demonstrates the process of building a plug-in \(com.example.print-pd
 -   Renders figures with a title at the top and a description at the bottom
 -   Use em dashes as the symbols for unordered lists
 
-1.  In the plugins directory, create a directory named com.example.print-pdf.
-2.  In the new com.example.print-pdf directory, create a plug-in configuration file \(plugin.xml\) that declares the new print-pdf transformation and its dependencies.
+1.   In the plugins directory, create a directory named com.example.print-pdf. 
+2.   In the new com.example.print-pdf directory, create a plug-in configuration file \(plugin.xml\) that declares the new print-pdf transformation and its dependencies. 
 
     ```
     <?xml version='1.0' encoding='UTF-8'?>
@@ -21,7 +21,7 @@ This topic demonstrates the process of building a plug-in \(com.example.print-pd
     </plugin>
     ```
 
-3.  Add an Ant script \(integrator.xml\) to define the transformation type.
+3.   Add an Ant script \(integrator.xml\) to define the transformation type. 
 
     ```
     <?xml version='1.0' encoding='UTF-8'?>
@@ -33,7 +33,7 @@ This topic demonstrates the process of building a plug-in \(com.example.print-pd
     </project>
     ```
 
-4.  In the new plug-in directory, add a cfg/catalog.xml file that specifies the custom XSLT style sheets.
+4.   In the new plug-in directory, add a cfg/catalog.xml file that specifies the custom XSLT style sheets. 
 
     ```
     <?xml version="1.0" encoding="UTF-8"?>
@@ -43,7 +43,7 @@ This topic demonstrates the process of building a plug-in \(com.example.print-pd
     </catalog>
     ```
 
-5.  Create the cfg/fo/attrs/custom.xsl file, and add attribute and variable overrides to it. For example, add the content highlighted with bold to change the page size to A4.
+5.   Create the cfg/fo/attrs/custom.xsl file, and add attribute and variable overrides to it. For example, add the content highlighted with bold to change the page size to A4.
 
     ```
     <?xml version="1.0" encoding="UTF-8"?>
@@ -55,7 +55,7 @@ This topic demonstrates the process of building a plug-in \(com.example.print-pd
     </xsl:stylesheet>
     ```
 
-6.  Create the cfg/fo/xsl/custom.xsl file, and add XSLT overrides to it. For example, the following code changes the rendering of <figure\> elements.
+6.   Create the cfg/fo/xsl/custom.xsl file, and add XSLT overrides to it. For example, the following code changes the rendering of <figure\> elements.
 
     ```
     <?xml version="1.0" encoding="UTF-8"?>
@@ -80,7 +80,7 @@ This topic demonstrates the process of building a plug-in \(com.example.print-pd
     </xsl:stylesheet>
     ```
 
-7.  Create an English-language variable-definition file \(cfg/common/vars/en.xml\) and make any necessary modifications to it. For example, the following code removes the period after the number for an ordered-list item; it also specifies that the bullet for an unordered list item should be an em dash.
+7.   Create an English-language variable-definition file \(cfg/common/vars/en.xml\) and make any necessary modifications to it. For example, the following code removes the period after the number for an ordered-list item; it also specifies that the bullet for an unordered list item should be an em dash.
 
     ```
     <?xml version="1.0" encoding="UTF-8"?>

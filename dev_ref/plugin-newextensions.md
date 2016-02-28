@@ -17,46 +17,46 @@ The `dita:extension` elements are used to insert generated content during integr
 
 Supported values for `behavior` attribute:
 
-`org.dita.dost.platform.CheckTranstypeAction`
-:   Create Ant condition elements to check if the `${transtype}` property value equals a supported transformation type value.
+ `org.dita.dost.platform.CheckTranstypeAction`
+ :   Create Ant condition elements to check if the `${transtype}` property value equals a supported transformation type value.
 
-`org.dita.dost.platform.ImportAntLibAction`
-:   Create Ant `pathelement` elements for [library imported extension point](plugin-javalib.md). The `id` attribute is used to define the extension point ID.
+  `org.dita.dost.platform.ImportAntLibAction`
+ :   Create Ant `pathelement` elements for [library imported extension point](plugin-javalib.md). The `id` attribute is used to define the extension point ID.
 
-`org.dita.dost.platform.ImportPluginCatalogAction`
-:   Include plug-in metadata catalog content.
+  `org.dita.dost.platform.ImportPluginCatalogAction`
+ :   Include plug-in metadata catalog content.
 
-`org.dita.dost.platform.ImportPluginInfoAction`
-:   Create plug-in metadata Ant properties.
+  `org.dita.dost.platform.ImportPluginInfoAction`
+ :   Create plug-in metadata Ant properties.
 
-`org.dita.dost.platform.ImportStringsAction`
-:   Include plug-in string file content base on [generated text extension point](plugin-addgeneratedtext.md). The `id` attribute is used to define the extension point ID.
+  `org.dita.dost.platform.ImportStringsAction`
+ :   Include plug-in string file content base on [generated text extension point](plugin-addgeneratedtext.md). The `id` attribute is used to define the extension point ID.
 
-`org.dita.dost.platform.ImportXSLAction`
-:   Create `xsl:import` elements based on [XSLT import extension point](plugin-overridestyle.md). The `id` attribute is used to define the extension point ID.
+  `org.dita.dost.platform.ImportXSLAction`
+ :   Create `xsl:import` elements based on [XSLT import extension point](plugin-overridestyle.md). The `id` attribute is used to define the extension point ID.
 
-`org.dita.dost.platform.InsertAction`
-:   Include plug-in conductor content based on [Ant import extension point](plugin-anttarget.md). The `id` attribute is used to define the extension point ID.
+  `org.dita.dost.platform.InsertAction`
+ :   Include plug-in conductor content based on [Ant import extension point](plugin-anttarget.md). The `id` attribute is used to define the extension point ID.
 
-`org.dita.dost.platform.InsertAntActionRelative`
-:   Include plug-in conductor content based on [relative Ant import extension point](plugin-anttarget.md). The `id` attribute is used to define the extension point ID.
+  `org.dita.dost.platform.InsertAntActionRelative`
+ :   Include plug-in conductor content based on [relative Ant import extension point](plugin-anttarget.md). The `id` attribute is used to define the extension point ID.
 
-`org.dita.dost.platform.InsertCatalogActionRelative`
-:   Include plug-in catalog content based on [catalog import extension point](plugin-xmlcatalog.md). The `id` attribute is used to define the extension point ID.
+  `org.dita.dost.platform.InsertCatalogActionRelative`
+ :   Include plug-in catalog content based on [catalog import extension point](plugin-xmlcatalog.md). The `id` attribute is used to define the extension point ID.
 
-`org.dita.dost.platform.ListTranstypeAction`
-:   Create a pipe delimited list of supported transformation types.
+  `org.dita.dost.platform.ListTranstypeAction`
+ :   Create a pipe delimited list of supported transformation types.
 
-## `dita:extension` attribute
+ ## `dita:extension` attribute
 
 The `dita:extension` attribute is used to process attributes in elements which are not in template extension namespace. The value of the attribute is a space delimited tuple, where the first item is the name of the attribute to process and the second item is the action ID.
 
 Supported values:
 
-`depends org.dita.dost.platform.InsertDependsAction`
-:   Ant target dependency list is processed to replace all target names which start with an open curly bracket and end with a close curly bracket. The value of the extension point is the ID between the curly brackets.
+ `depends org.dita.dost.platform.InsertDependsAction`
+ :   Ant target dependency list is processed to replace all target names which start with an open curly bracket and end with a close curly bracket. The value of the extension point is the ID between the curly brackets.
 
-## Example
+ ## Example
 
 The following plug-in defines myBuildFile\_template.xml as a new template for extensions, and two new extension points.
 

@@ -35,5 +35,5 @@ The result of this list is a set of several list files in the temporary director
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Next topic:**[Debug and filter \(debug-filter\)](../dev_ref/preprocess-debugfilter.md)
+**Next topic:** [Debug and filter \(debug-filter\)](../dev_ref/preprocess-debugfilter.md)
 

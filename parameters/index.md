@@ -1,6 +1,6 @@
 # DITA Open Toolkit Parameter Reference
 
-The Parameter Reference is designed to help users to locate information easily and quickly. It includes documentation for the DITA-OT parameters and configuration properties.
+ The Parameter Reference is designed to help users to locate information easily and quickly. It includes documentation for the DITA-OT parameters and configuration properties. 
 
 -   **[DITA-OT parameters](../parameters/parameters_intro.md)**  
 Certain parameters apply to all DITA-OT transformations. Other parameters are common to the HTML-based transformations. Finally, some parameters apply only to specific transformation types. These parameters can be passed as options to the dita command using the -Dparameter-name=value syntax or included in build scripts as Ant properties.

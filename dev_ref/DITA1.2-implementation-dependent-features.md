@@ -32,17 +32,17 @@ Error recovery:
 
 The debug attributes are populated as follows:
 
-xtrf
-:   absolute system path of the source document
+ xtrf
+ :   absolute system path of the source document
 
-xtrc
-:   element counter that uses the format
+  xtrc
+ :   element counter that uses the format
 
     ```
     element-name ":" integer-counter ";" line-number ":" column-number
     ```
 
-## Image scaling
+ ## Image scaling
 
 If both height and width attributes are given, image is scaled non-uniformly.
 

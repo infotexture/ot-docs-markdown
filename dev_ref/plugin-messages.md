@@ -2,10 +2,10 @@
 
 Plug-in specific warning and error messages can be added to the set of messages supplied by the DITA-OT. These messages can then be used by any XSLT override.
 
-`dita.xsl.messages`
-:   Add new messages to diagnostic message file.
+ `dita.xsl.messages`
+ :   Add new messages to diagnostic message file.
 
-## Example
+ ## Example
 
 To add your own messages, create the new messages in an XML file such as myMessages.xml:
 

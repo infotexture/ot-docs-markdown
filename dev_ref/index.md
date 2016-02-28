@@ -1,6 +1,6 @@
 # DITA Open Toolkit Developer Reference
 
-The Developer Reference is designed to provide more advanced information about the DITA-OT. It is geared to an audience that needs information about the DITA-OT architecture, extending the DITA-OT, and creating DITA-OT plug-ins.
+ The Developer Reference is designed to provide more advanced information about the DITA-OT. It is geared to an audience that needs information about the DITA-OT architecture, extending the DITA-OT, and creating DITA-OT plug-ins. 
 
 -   **[Architecture of the DITA Open Toolkit](../dev_ref/DITA-OTArchitecture.md)**  
 The DITA Open Toolkit is an open-source implementation of the OASIS specification for the Darwin Information Typing Architecture. The toolkit uses Ant, XSLT, and Java to transform DITA content \(maps and topics\) into different deliverable formats.

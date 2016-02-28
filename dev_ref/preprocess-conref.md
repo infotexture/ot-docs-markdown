@@ -35,7 +35,7 @@ In this case, the value of the @id attribute on the <fig\> element has been chan
 
 **Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
 
-**Previous topic:**[Conref push \(conrefpush\)](../dev_ref/preprocess-conrefpush.md)
+**Previous topic:** [Conref push \(conrefpush\)](../dev_ref/preprocess-conrefpush.md)
 
-**Next topic:**[Resolve code references \(coderef\)](../dev_ref/preprocess-coderef.md)
+**Next topic:** [Resolve code references \(coderef\)](../dev_ref/preprocess-coderef.md)
 

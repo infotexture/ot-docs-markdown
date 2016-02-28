@@ -1,6 +1,6 @@
 # DITA Open Toolkit User Guide
 
-The User Guide is designed to provide basic information about the DITA-OT. It is geared for an audience that needs information about installing, running, and troubleshooting the toolkit. It contains information on the supported DITA versions and the versions of components that have been tested for use with the toolkit.
+ The User Guide is designed to provide basic information about the DITA-OT. It is geared for an audience that needs information about installing, running, and troubleshooting the toolkit. It contains information on the supported DITA versions and the versions of components that have been tested for use with the toolkit.
 
 -   **[DITA Open Toolkit Overview](../user-guide/overview-of-dita-ot.md)**  
 The DITA Open Toolkit \(DITA-OT\) is an open-source implementation of the OASIS DITA specification, which is developed by the OASIS DITA Technical Committee. The DITA-OT is a set of Java-based, open-source tools that transform DITA content \(maps and topics\) into deliverable formats, including PDF, HTML, HTML Help, Eclipse Help, and JavaHelp.
