@@ -1,0 +1,7 @@
+# This file specifies files that GitBook should skip when building output
+# https://help.gitbook.com/format/ignore.html
+
+## These files will not be copied to the `_book/` staging directory:
+.editorconfig
+ot-docs-markdown.sublime-*
+package.json
