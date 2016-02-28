@@ -18,8 +18,6 @@ args.xhtml.toc.class
 args.xhtml.toc.xsl
 :   Specifies a custom XSL file to be used for TOC generation.
 
-**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
-
 **Related information**  
 
 

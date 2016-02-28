@@ -20,8 +20,6 @@ Highlights of DITA 1.2 support in the toolkit include:
 
 To find detailed information about any of these features, see the specification documents at OASIS. The DITA Adoption Technical Committee has also produced several papers to describe individual new features. In general, the white papers are geared more towards DITA users and authors, while the specification is geared more towards tool implementors, though both may be useful for either audience. The DITA Adoption papers can be found from that TC’s main web page.
 
-**Parent topic:** [DITA specification support](../user-guide/DITA_spec-support.md)
-
 **Related information**  
 
 

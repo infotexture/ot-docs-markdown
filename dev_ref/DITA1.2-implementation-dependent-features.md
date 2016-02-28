@@ -32,17 +32,17 @@ Error recovery:
 
 The debug attributes are populated as follows:
 
-xtrf
-:   absolute system path of the source document
+ xtrf
+ :   absolute system path of the source document
 
-xtrc
-:   element counter that uses the format
+  xtrc
+ :   element counter that uses the format
 
     ```
     element-name ":" integer-counter ";" line-number ":" column-number
     ```
 
-## Image scaling
+ ## Image scaling
 
 If both height and width attributes are given, image is scaled non-uniformly.
 
@@ -59,6 +59,4 @@ When the value of `href` attribute is not a valid URI reference, DOTJ054E error 
 ## Copy-to processing
 
 When the `copy-to` attribute is specified on a `topicref`, the content of the `shortdesc` element is not used to override the short description of the topic.
-
-**Parent topic:** [DITA Open Toolkit Developer Reference](../dev_ref/index.md)
 

@@ -13,34 +13,34 @@ To create new parameters, create a file named insertParameters.xml, which contai
 
 Pass the value using the following extensions:
 
-`dita.conductor.html.param`
-:   Pass parameters to HTML and HTML Help XSLT
+ `dita.conductor.html.param`
+ :   Pass parameters to HTML and HTML Help XSLT
 
-`dita.conductor.xhtml.param`
-:   Pass parameters to XHTML and Eclipse Help XSLT
+  `dita.conductor.xhtml.param`
+ :   Pass parameters to XHTML and Eclipse Help XSLT
 
-`dita.conductor.xhtml.toc.param`
-:   Pass parameters to XHTML TOC XSLT
+  `dita.conductor.xhtml.toc.param`
+ :   Pass parameters to XHTML TOC XSLT
 
-`dita.conductor.eclipse.toc.param`
-:   Pass parameters to Eclipse Help TOC XSLT
+  `dita.conductor.eclipse.toc.param`
+ :   Pass parameters to Eclipse Help TOC XSLT
 
-`dita.preprocess.conref.param`
-:   Pass parameters to conref XSLT
+  `dita.preprocess.conref.param`
+ :   Pass parameters to conref XSLT
 
-`dita.preprocess.mapref.param`
-:   Pass parameters to mapref XSLT
+  `dita.preprocess.mapref.param`
+ :   Pass parameters to mapref XSLT
 
-`dita.preprocess.mappull.param`
-:   Pass parameters to mappull XSLT
+  `dita.preprocess.mappull.param`
+ :   Pass parameters to mappull XSLT
 
-`dita.preprocess.topicpull.param`
-:   Pass parameters to topicpull XSLT
+  `dita.preprocess.topicpull.param`
+ :   Pass parameters to topicpull XSLT
 
-`dita.conductor.pdf2.param`
-:   Pass parameters to PDF2 XSLT
+  `dita.conductor.pdf2.param`
+ :   Pass parameters to PDF2 XSLT
 
-## Example
+ ## Example
 
 The following plug-in will pass the parameters defined in the insertParameters.xml file as input to the XHTML process. Generally, an additional XSLT override will make use of the parameter to do something new with the generated content.
 
@@ -49,6 +49,4 @@ The following plug-in will pass the parameters defined in the insertParameters.x
   <feature extension="dita.conductor.xhtml.param" file="insertParameters.xml"/>
 </plugin>
 ```
-
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 

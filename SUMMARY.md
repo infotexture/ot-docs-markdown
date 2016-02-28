@@ -1,4 +1,4 @@
-# SUMMARY
+# Summary
 
 -   [DITA Open Toolkit 2.2](index.md)
 -   [Release Notes](release-notes/index.md)

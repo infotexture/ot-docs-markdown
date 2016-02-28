@@ -2,7 +2,7 @@
 
 Plug-ins can be removed by running the uninstallation process.
 
-1.  Run plug-in uninstallation process.
+1.   Run plug-in uninstallation process. 
     -   Using the dita command line tool, run the uninstallation command:
 
         ```
@@ -15,6 +15,4 @@ Plug-ins can be removed by running the uninstallation process.
         ant -f integrator.xml uninstall -Dplugin.id=plug-in-id
         ```
 
-
-**Parent topic:** [Extending the DITA Open Toolkit](../user-guide/extending-the-dita-ot.md)
 

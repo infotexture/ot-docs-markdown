@@ -59,8 +59,6 @@ The DITA Open Toolkit supports over 50 languages and language variants for the H
 |Ukrainian|uk or uk-UA|
 |Urdu|ur or ur-PK|
 
-**Parent topic:** [Globalizing DITA content](../user-guide/DITA-globalization.md)
-
 **Related information**  
 
 

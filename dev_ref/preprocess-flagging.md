@@ -8,8 +8,8 @@ Flagging is implemented as a reusable module during the preprocess stage. If a D
 
 When a flag is active, relevant sections of the DITAVAL itself are copied into the topic as a sub-element of the current topic. The active flags are enclosed in a pseudo-specialization of the `<foreign>` element \(referred to as a pseudo-specialization because it is used only under the covers, with all topic types; it is not integrated into any shipped document types\).
 
-`<ditaval-startprop>`
-:   When any flag is active on an element, a `<ditaval-startprop>` element will be created as the first child of the flagged element:
+ `<ditaval-startprop>`
+ :   When any flag is active on an element, a `<ditaval-startprop>` element will be created as the first child of the flagged element:
 
     ```
     <ditaval-startprop class="+ topic/foreign ditaot-d/ditaval-startprop ">
@@ -21,8 +21,8 @@ When a flag is active, relevant sections of the DITAVAL itself are copied into t
     -   If styles conflict, and a `<style-conflict>` element exists in the DITAVAL, it will be copied as a child of `<ditaval-startprop>`.
     -   Any `<prop>` or `<revprop>` elements that define active flags will be copied in as children of the `<ditaval-startprop>` element. Any `<startflag>` children of the properties will be included, but `<endflag>` children will not.
 
-`<ditaval-endprop>`
-:   When any flag is active on an element, a `<ditaval-endprop>` element will be created as the last child of the flagged element:
+  `<ditaval-endprop>`
+ :   When any flag is active on an element, a `<ditaval-endprop>` element will be created as the last child of the flagged element:
 
     ```
     <ditaval-endprop class="+ topic/foreign ditaot-d/ditaval-endprop ">
@@ -32,7 +32,7 @@ When a flag is active, relevant sections of the DITAVAL itself are copied into t
 
     Any `<prop>` or `<revprop>` elements that define active flags will be copied in as children of `<ditaval-prop>`. Any `<endflag>` children of the properties will be included, but `<startflag>` children will not.
 
-## Supporting flags in overrides or custom transformation types
+ ## Supporting flags in overrides or custom transformation types
 
 For most transformation types, the `<foreign>` element should be ignored by default, because arbitrary non-DITA content may not mix well unless coded for ahead of time. If the `<foreign>` element is ignored by default, or if a rule is added to specifically ignore `<ditaval-startprop>` and `<ditaval-endprop>`, then the added elements will have no impact on a transform. If desired, flagging support may be integrated at any time in the future.
 
@@ -158,8 +158,4 @@ The resulting file after the flagging step looks like this; for clarity, newline
   </ditaval-endprop\>**
 </ol>
 ```
-
-**Parent topic:** [Pre-processing modules](../dev_ref/DITA-OTPreprocess.md)
-
-**Previous topic:**[Pull content into topics \(topicpull\)](../dev_ref/preprocess-topicpull.md)
 

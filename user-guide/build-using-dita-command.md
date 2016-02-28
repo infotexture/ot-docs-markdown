@@ -2,7 +2,7 @@
 
 DITA-OT includes a dita command-line tool. You can invoke the DITA-OT from the command-line tool and generate output.
 
-1.  At the command-line prompt, enter the following command:
+1.   At the command-line prompt, enter the following command: 
 
     ```
     install-dir/bin/dita -i input-file -f format -Dparameter-name=value -o output-dir
@@ -28,8 +28,6 @@ The following command generates HTML5 output for the sequence.ditamap file and w
 ```
 dita -i samples/sequence.ditamap -f html5 -o test
 ```
-
-**Parent topic:** [Publishing DITA content](../user-guide/transforming-dita-content.md)
 
 **Related information**  
 

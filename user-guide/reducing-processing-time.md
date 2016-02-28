@@ -24,8 +24,6 @@ For all but extremely large source sets, the JVM will not have enough time to wa
 
 DITA-OT 2.0 requires Java 7, but using the latest version Java 8 will further reduce processing time.
 
-**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
-
 **Collected links**  
 
 

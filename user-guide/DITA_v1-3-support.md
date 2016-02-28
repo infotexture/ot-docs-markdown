@@ -6,7 +6,7 @@ Because DITA 1.3 is fully backwards compatible with previous DITA DTDs and schem
 
 ## Initial Preview Support for DITA 1.3 in DITA-OT 2.0
 
-The following DITA 1.3 features were implemented in version 2.0 of the toolkit. Issue numbers correspond to the tracking number in the [GitHub issues tracker](https://github.com/dita-ot/dita-ot/issues).
+The following DITA 1.3 features were implemented in version 2.0 of the toolkit. Issue numbers correspond to the tracking number in the  [GitHub issues tracker](https://github.com/dita-ot/dita-ot/issues).
 
 -   Support DITA 1.3 link syntax \(milestone 2\) [\#1649](https://github.com/dita-ot/dita-ot/issues/1649)
 -   Support DITA 1.3 cascade attribute \(milestone 2\) [\#1636](https://github.com/dita-ot/dita-ot/issues/1636)
@@ -21,7 +21,7 @@ The following DITA 1.3 features were implemented in version 2.2 of the toolkit.
 
 **Important:** The DITA 1.3 grammars are now used as the default DTDs for processing [\#2094](https://github.com/dita-ot/dita-ot/issues/2094)
 
--   Initial implementation of DITA 1.3 branch filtering [\#1969](https://github.com/dita-ot/dita-ot/pull/1969), [\#1637](https://github.com/dita-ot/dita-ot/issues/1637)
+-   Initial implementation of DITA 1.3 branch filtering [\#1969](https://github.com/dita-ot/dita-ot/pull/1969), [\#1637](https://github.com/dita-ot/dita-ot/issues/1637) 
 
     The implementation is a separate module that is run before keyref processing. The process
 
@@ -31,13 +31,11 @@ The following DITA 1.3 features were implemented in version 2.2 of the toolkit.
     -   Rewrites duplicate generated copy-to targets with a numbered `-#` suffix
     -   Copies and filters generated copy-to targets
     -   Filters topics that were not branch-generated
--   Initial support for DITA 1.3 key scopes, including multiple scope names in a single `@keyscope` attribute [\#1979](https://github.com/dita-ot/dita-ot/pull/1979), [\#1648](https://github.com/dita-ot/dita-ot/issues/1648), [\#2004](https://github.com/dita-ot/dita-ot/issues/2004)
--   The `@keyref` attribute is now supported on `object` elements [\#1783](https://github.com/dita-ot/dita-ot/issues/1783)
--   Processing order has been revised to process any same topic fragments used in conrefs before the conref phase, to enable content references to elements in the same topic using a reference such as `<p conref="#./ID"/>` as reported in [\#1649](https://github.com/dita-ot/dita-ot/pull/1649). [\#1968](https://github.com/dita-ot/dita-ot/pull/1968)
+-   Initial support for DITA 1.3 key scopes, including multiple scope names in a single `@keyscope` attribute [\#1979](https://github.com/dita-ot/dita-ot/pull/1979), [\#1648](https://github.com/dita-ot/dita-ot/issues/1648), [\#2004](https://github.com/dita-ot/dita-ot/issues/2004) 
+-   The `@keyref` attribute is now supported on `object` elements [\#1783](https://github.com/dita-ot/dita-ot/issues/1783) 
+-   Processing order has been revised to process any same topic fragments used in conrefs before the conref phase, to enable content references to elements in the same topic using a reference such as `<p conref="#./ID"/>` as reported in [\#1649](https://github.com/dita-ot/dita-ot/pull/1649). [\#1968](https://github.com/dita-ot/dita-ot/pull/1968) 
 
 **Note:** For the latest status information on DITA 1.3-related features, see the [DITA 1.3 label](https://github.com/dita-ot/dita-ot/issues?q=label%3A%22DITA+1.3%22+is%3Aclosed) in the GitHub issues tracker.
-
-**Parent topic:** [DITA specification support](../user-guide/DITA_spec-support.md)
 
 **Related information**  
 

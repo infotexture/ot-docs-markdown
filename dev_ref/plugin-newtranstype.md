@@ -4,13 +4,13 @@ Plug-ins may integrate an entirely new transformation type. The new transformati
 
 The transtype extension point is used to define a new transformation type, which makes use of targets in your Ant extensions. When a transformation type is defined, the build expects Ant code to be integrated to define the transform process. The Ant code must define a target based on the name of the transformation type; if the transformation type is "mystuff", the Ant code must define a target named dita2mystuff.
 
-`dita.conductor.transtype.check`
-:   Add a new value to the list of valid transformation type names.
+ `dita.conductor.transtype.check`
+ :   Add a new value to the list of valid transformation type names.
 
-`dita.transtype.print`
-:   Declare the transformation type as a print type.
+  `dita.transtype.print`
+ :   Declare the transformation type as a print type.
 
-The `<transtype>` element is used to define a new transformation type with the parameters that are supported.
+ The `<transtype>` element is used to define a new transformation type with the parameters that are supported.
 
 ## Example
 
@@ -37,8 +37,6 @@ The following example shows how the org.dita.html5 plugin uses the `<transtype>`
   </param>
 </transtype>
 ```
-
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 
 **Related information**  
 

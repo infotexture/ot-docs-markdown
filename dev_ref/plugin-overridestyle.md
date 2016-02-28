@@ -4,43 +4,43 @@ The XSLT import extension points are used to override various steps of XSLT proc
 
 The following XSLT steps are available to override in the core toolkit:
 
-`dita.xsl.xhtml`
-:   Overrides default \(X\)HTML output \(including HTML Help and Eclipse Help\). The referenced file is integrated directly into the XSLT step that generates XHTML.
+ `dita.xsl.xhtml`
+ :   Overrides default \(X\)HTML output \(including HTML Help and Eclipse Help\). The referenced file is integrated directly into the XSLT step that generates XHTML.
 
-`dita.xsl.xslfo`
-:   Overrides default PDF output \(formerly known as PDF2\). The referenced file is integrated directly into the XSLT step that generates XSL-FO for PDF.
+  `dita.xsl.xslfo`
+ :   Overrides default PDF output \(formerly known as PDF2\). The referenced file is integrated directly into the XSLT step that generates XSL-FO for PDF.
 
-`dita.xsl.docbook`
-:   Overrides default DocBook output.
+  `dita.xsl.docbook`
+ :   Overrides default DocBook output.
 
-`dita.xsl.rtf`
-:   Overrides default RTF output.
+  `dita.xsl.rtf`
+ :   Overrides default RTF output.
 
-`dita.xsl.eclipse.plugin`
-:   Overrides the step that generates plugin.xml for Eclipse.
+  `dita.xsl.eclipse.plugin`
+ :   Overrides the step that generates plugin.xml for Eclipse.
 
-`dita.xsl.conref`
-:   Overrides the preprocess step that resolves conref.
+  `dita.xsl.conref`
+ :   Overrides the preprocess step that resolves conref.
 
-`dita.xsl.topicpull`
-:   Overrides the preprocess step "topicpull" \(the step that pulls text into <xref\> elements, among other things\).
+  `dita.xsl.topicpull`
+ :   Overrides the preprocess step "topicpull" \(the step that pulls text into <xref\> elements, among other things\).
 
-`dita.xsl.mapref`
-:   Overrides the preprocess step "mapref" \(the step that resolves references to other maps\).
+  `dita.xsl.mapref`
+ :   Overrides the preprocess step "mapref" \(the step that resolves references to other maps\).
 
-`dita.xsl.mappull`
-:   Overrides the preprocess step "mappull" \(the step that updates navtitles in maps and causes attributes to cascade\).
+  `dita.xsl.mappull`
+ :   Overrides the preprocess step "mappull" \(the step that updates navtitles in maps and causes attributes to cascade\).
 
-`dita.xsl.maplink`
-:   Overrides the preprocess step "maplink" \(the step that generates map-based links\).
+  `dita.xsl.maplink`
+ :   Overrides the preprocess step "maplink" \(the step that generates map-based links\).
 
-`dita.xsl.troff-ast`
-:   Overrides the intermediate block-and-phrase format generated as input to troff processing.
+  `dita.xsl.troff-ast`
+ :   Overrides the intermediate block-and-phrase format generated as input to troff processing.
 
-`dita.xsl.troff`
-:   Overrides the XSL that converts block-and-phrase intermediate markup into troff.
+  `dita.xsl.troff`
+ :   Overrides the XSL that converts block-and-phrase intermediate markup into troff.
 
-## Example – Overriding XHTML header processing
+ ## Example – Overriding XHTML header processing
 
 The following two files represent a complete, simple style plug-in.
 
@@ -73,6 +73,4 @@ To apply custom formatting for your own domain to the intermediate markup genera
 ```
 <feature extension="dita.xsl.troff-ast" file="xsl/your-domain.xsl"/>
 ```
-
-**Parent topic:** [Creating plug-ins](../dev_ref/plugins-overview.md)
 

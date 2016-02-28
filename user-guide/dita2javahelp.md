@@ -9,8 +9,6 @@ The Java Help output produces HTML files rather than XHTML files. In addition to
 -   Other Java Help project files \(map.jhm and mapname\_helpset.hs\)
 -   If the Java Help compiler is located on the system, a compiled Java Help project will be returned.
 
-**Parent topic:** [DITA-OT transformations \(output formats\)](../user-guide/AvailableTransforms.md)
-
 **Related information**  
 
 

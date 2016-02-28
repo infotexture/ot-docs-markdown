@@ -33,5 +33,3 @@ The DITA Open Toolkit supports a smaller set of languages for the PDF \(pdf2\) t
 |Swedish|sv or sv-SE|
 |Turkish|tr or tr-TR|
 
-**Parent topic:** [Globalizing DITA content](../user-guide/DITA-globalization.md)
-

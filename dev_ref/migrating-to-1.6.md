@@ -118,5 +118,3 @@ The following deprecated templates have been removed:
 
 The removed templates have been replaced by other templates in earlier releases and plug-ins should be changed to use the new templates.
 
-**Parent topic:** [Migrating customizations](../dev_ref/migration.md)
-

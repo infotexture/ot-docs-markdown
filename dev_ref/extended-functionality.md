@@ -1,7 +1,5 @@
 # Extended functionality
 
-**Parent topic:** [DITA Open Toolkit Developer Reference](../dev_ref/index.md)
-
 ## Code reference processing
 
 ### Charset definition

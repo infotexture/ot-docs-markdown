@@ -5,8 +5,6 @@ Certain parameters are specific to the HTML Help transformation.
 args.htmlhelp.includefile
 :   Specifies the name of a file that you want included in the HTML Help.
 
-**Parent topic:** [DITA-OT parameters](../parameters/parameters_intro.md)
-
 **Related information**  
 
 

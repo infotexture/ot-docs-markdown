@@ -21,5 +21,3 @@ This problem occurs when HTML files unrelated to the current transformation are 
 
 If you receive an error about a stack memory overflow, increase the JVM and run the transformation again. See [Increasing Java memory allocation](increasing-the-jvm.md).
 
-**Parent topic:** [Error messages and troubleshooting](../user-guide/troubleshooting-overview.md)
-
