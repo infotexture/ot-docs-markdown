@@ -2,3 +2,6 @@
 
 ## Staging directory generated during GitBook builds
 _book/
+
+## Locally required Node module dependencies
+node_modules/
